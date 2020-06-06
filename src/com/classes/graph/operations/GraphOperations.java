@@ -55,9 +55,6 @@ public class GraphOperations {
                { 
             	   DFSUtil(adj, nextIndex,map,visited);
                }
-               else {
-            	   return truel
-               }
            }
 	}
 	
